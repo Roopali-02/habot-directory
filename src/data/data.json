@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Bright Minds Therapy",
+    "specialization": "Dyslexia Support",
+    "location": "Pune",
+    "rating": 4.5,
+    "shortDescription": "Helping children with dyslexia thrive academically.",
+    "longDescription": "Bright Minds Therapy offers structured reading programs and one-on-one support tailored for children with dyslexia.",
+    "contactEmail": "contact@brightminds.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Focus Forward Coaching",
+    "specialization": "ADHD Coaching",
+    "location": "Mumbai",
+    "rating": 4.2,
+    "shortDescription": "Personalized ADHD coaching for students.",
+    "longDescription": "Our ADHD coaches work closely with students to improve focus, time management, and academic performance.",
+    "contactEmail": "info@focusforward.com",
+    "phoneNumber": "9123456780"
+  },
+  {
+    "id": 3,
+    "name": "Learning Ladder",
+    "specialization": "Autism Support",
+    "location": "Delhi",
+    "rating": 4.8,
+    "shortDescription": "Comprehensive autism support services.",
+    "longDescription": "Learning Ladder specializes in behavior therapy and inclusive education strategies for children with autism.",
+    "contactEmail": "support@learningladder.com",
+    "phoneNumber": "9988776655"
+  },
+  {
+    "id": 4,
+    "name": "Step Ahead Tutors",
+    "specialization": "General Learning Disabilities",
+    "location": "Bangalore",
+    "rating": 4.3,
+    "shortDescription": "Tutoring for children with diverse learning needs.",
+    "longDescription": "Step Ahead provides tutoring customized to each child's learning profile, including dyscalculia, dysgraphia, and more.",
+    "contactEmail": "hello@stepahead.com",
+    "phoneNumber": "9112233445"
+  },
+  {
+    "id": 5,
+    "name": "Calm Minds",
+    "specialization": "Emotional & Behavioral Therapy",
+    "location": "Hyderabad",
+    "rating": 4.0,
+    "shortDescription": "Behavioral therapy services for children.",
+    "longDescription": "Calm Minds helps children manage emotions and behaviors through CBT and play-based therapy.",
+    "contactEmail": "therapy@calmminds.com",
+    "phoneNumber": "9345612378"
+  },
+  {
+    "id": 6,
+    "name": "Pathways Center",
+    "specialization": "Speech & Language Therapy",
+    "location": "Chennai",
+    "rating": 4.6,
+    "shortDescription": "Speech and language development for early learners.",
+    "longDescription": "Pathways offers specialized therapy for speech delays and language difficulties using interactive, age-appropriate techniques.",
+    "contactEmail": "reach@pathwayscenter.com",
+    "phoneNumber": "9001234567"
+  },
+  {
+    "id": 7,
+    "name": "NeuroBridge",
+    "specialization": "Cognitive Skills Training",
+    "location": "Kolkata",
+    "rating": 4.4,
+    "shortDescription": "Enhancing memory, focus, and problem-solving in kids.",
+    "longDescription": "NeuroBridge combines neuroscience-based activities and technology to strengthen children's cognitive abilities.",
+    "contactEmail": "info@neurobridge.com",
+    "phoneNumber": "9080706050"
+  }
+  
+]

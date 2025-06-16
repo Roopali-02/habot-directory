@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.bg-card{
+  background: linear-gradient(to right, #136a8a, #267871);
+}
+.bg-details{
+  background: linear-gradient(to right, #525252, #3d72b4);
+}
